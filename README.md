@@ -1,4 +1,5 @@
 # PythonWithRony
+![Under Construction](images/underConstruction.png)
 
 Welcome to **PythonWithRony**! This repository is dedicated to helping you learn Python step by step. Whether you are a beginner or looking to enhance your skills, you'll find valuable resources and tutorials here.
 
@@ -58,3 +59,10 @@ Let's start with the classic "Hello, World!" program. Create a new Python file a
 
 ```python
 print("Hello, World!")
+```
+### Input Name
+
+```python
+name = input("Enter your name: ")
+print("Hello, {}".format(name))
+```
